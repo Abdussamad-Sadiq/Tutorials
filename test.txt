@@ -1,3 +1,0 @@
-this is a test file for git operations
-this is a second line in the test file
-this is a third line in the test file
